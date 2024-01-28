@@ -1,32 +1,18 @@
-Flutter Quiz App
-This Flutter app is a simple quiz game that tests your knowledge with true/false questions. The app displays questions, accepts user answers, and provides feedback on correctness.
+# Quiz Game Project
 
-Getting Started
-To use the app, follow these steps:
+## Overview
+This project, developed by Abenezer Y Bekele, is a fun and interactive Quiz Game implemented in Java.
 
-Clone the repository.
-Navigate to the cloned directory.
-Compile the source code using flutter run.
-Usage
-Enter your answers by tapping on the "True" or "False" buttons. The app will provide instant feedback with icons indicating correctness. After answering 10 questions, the game will display your total score.
+## Files
+- `Main.java`: This is the main driver program for the project.
+- `Quiz.java`: This file contains the implementation of the Quiz game logic.
+- `Question.java`: This file defines the structure of a question in the Quiz game.
 
-Features
-Questions are displayed one at a time.
-Immediate feedback on correctness.
-A dialog box with an image appears after each question, providing additional engagement.
-Game over dialog displays the total score and offers the option to play again.
-Dependencies
-Flutter
-Dart
+## Getting Started
+To get started with this project, clone the repository and open the .java files in your preferred Java IDE.
 
+## Contributing
+Contributions are welcome! Please read the contributing guidelines before making any changes.
 
-Contributing
-Contributions are welcome! Follow these steps:
-
-Fork the repository.
-Create a new branch.
-Make your changes.
-Test your changes.
-Submit a pull request.
-License
-This project is licensed under the [Your Name License] - see the LICENSE file for details.
+## License
+This project is licensed under the Abenezer Y Bekele License. See the LICENSE file for more details.
